@@ -1,4 +1,4 @@
-package ru.bitelecom.selenide.pageObjects;
+package pageObjects;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.ElementsCollection;

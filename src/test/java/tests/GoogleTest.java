@@ -1,9 +1,9 @@
-package ru.bitelecom.selenide.tests;
+package tests;
 
 import com.codeborne.selenide.WebDriverRunner;
 import org.testng.annotations.Test;
-import ru.bitelecom.selenide.pageObjects.GoogleMainPage;
-import ru.bitelecom.selenide.pageObjects.youTube.YoutubeMainPage;
+import pageObjects.GoogleMainPage;
+import pageObjects.youTube.YoutubeMainPage;
 
 import static com.codeborne.selenide.Selenide.open;
 

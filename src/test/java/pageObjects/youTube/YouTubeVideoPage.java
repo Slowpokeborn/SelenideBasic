@@ -1,4 +1,4 @@
-package ru.bitelecom.selenide.pageObjects.youTube;
+package pageObjects.youTube;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
